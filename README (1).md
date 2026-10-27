@@ -1,6 +1,6 @@
 # Tiny Transformer: A GPT-Style Language Model Built from Scratch
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MenadiDev/tiny-transformer-tinystories/blob/main/tiny_transformer_lab3_v2_bpe.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/116ex_GGKQjWMR7Hrb-E_GomRCpQzIPMa?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c)
 
